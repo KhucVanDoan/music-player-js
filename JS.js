@@ -21,9 +21,9 @@ const app = {
   config: JSON.parse(localStorage.getItem(PLAYER_STORAGE_KEY)) || {},
   songs: [
     {
-      name: "Nevada",
+      name: "Neu co kiep sau",
       singer: "Vicetone",
-      path: "https://aredir.nixcdn.com/NhacCuaTui968/LightItUp-RobinHustinTobimorrowJex-5619031.mp3?st=kzpVQ5kKnf2LlcAqM6lnxg&e=1623143881",
+      path: "/music/song3.mp3",
       image:
         "https://i.pinimg.com/originals/f8/6f/33/f86f3378e656883b33594f06d78d1634.jpg",
     },
